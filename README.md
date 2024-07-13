@@ -23,7 +23,6 @@ This portfolio showcases my academic background, skills, and projects. It's desi
 - HTML
 - CSS
 - JavaScript
-- Font Awesome
 
 ## Usage
 
