@@ -17,7 +17,6 @@ This portfolio showcases my academic background, skills, and projects. It's desi
 
 ![Screenshot 2024-06-20 074228](https://github.com/Vasanth-15740/Portfolio/assets/163419240/31c11e31-0579-4647-a402-9b64775fa2e7)
 
-
 ## Technologies Used
 
 - HTML
