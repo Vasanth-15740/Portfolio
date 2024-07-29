@@ -13,6 +13,7 @@ function showName() {
     }
     displayNextLetter();
 }
+
 function smoothScroll(target) {
     document.querySelector('#' + target).scrollIntoView({ behavior: 'smooth'});
 }
